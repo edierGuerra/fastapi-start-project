@@ -47,4 +47,4 @@ Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
 
 ## Contacto
 
-Para soporte o sugerencias, crea un issue en el [repositorio de GitHub](https://github.com/usuario/fastapi-start-app/issues) o contáctaME en [edierguerra55@gmail.com](mailto:correo@ejemplo.com).
+Para soporte o sugerencias, crea un issue en el [repositorio de GitHub](https://github.com/usuario/fastapi-start-app/issues) o contáctame en [edierguerra55@gmail.com](mailto:correo@ejemplo.com).
