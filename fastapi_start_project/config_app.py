@@ -2,8 +2,8 @@ from rich.console import Console
 from pathlib import Path
 import json
 
-from utils import crear_estructura
-from files_content import (
+from fastapi_start_project.utils import crear_estructura
+from fastapi_start_project.files_content import (
     contenido_main_base, contenido_main_jinja2,
     contenido_docker, contenido_docker_compose,
     contenido_env, contenido_readme,

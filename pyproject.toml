@@ -1,6 +1,6 @@
 [project]
 name = "fastapi-start-project"
-version = "0.0.6"
+version = "0.0.7"
 description = "Generador interactivo de proyectos FastAPI con templates, docker, y más."
 authors = [{ name = "Edier", email = "edierguerra55@gmail.com" }]
 readme = "README.md"

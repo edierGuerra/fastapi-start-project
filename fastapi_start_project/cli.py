@@ -1,4 +1,4 @@
-# main.py
+# cli.py
 
 from rich.console import Console
 from rich.panel import Panel
@@ -10,8 +10,8 @@ from pathlib import Path
 
 # Importar funciones personalizadas
 try:
-    from utils import limpiar_consola
-    from config_app import configurar_app
+    from fastapi_start_project.utils import limpiar_consola
+    from fastapi_start_project.config_app import configurar_app
 except ImportError as e:
     print(f"[ERROR] No se pudieron importar los módulos necesarios: {e}")
     sys.exit(1)
